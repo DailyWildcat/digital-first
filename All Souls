@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<html>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>All Souls Procession</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+<style>
+body,h2,h3,h4,h5,h6 {font-family: "Monserrat",serif;}
+body, html {
+    height: 100%;
+    font-size: 26px;
+    color: #000000;
+    line-height: 1.3;
+}
+div {
+    padding-right: 15px;
+}
+
+p {
+    font-size: 19px;
+    font: Georgia
+}
+
+h1 {
+    font-size: 42px;
+    color: #000000
+    font: Monserrat Bold
+}
+
+hr {
+height: 30px;
+width:100%;
+color: #E20505;
+background-color: #E20505;
+border: none;
+}
+
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.right-image {
+    float: right;
+    width: 300px;
+   height: 160px;
+}
+
+.left-image {
+    float: left;
+    width: 300px;
+   height: 160px;
+}
+
+#images_hz {
+width: 960px;
+height: auto;
+overflow: hidden;
+}
+#images_hz img {
+display: inline;
+margin: 0px 20px;}
+
+/* Create a Parallax Effect */
+.bgimg-1, .bgimg-2, .bgimg-3 {
+    opacity: 0.7;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* First image (Logo. Full height) */
+.bgimg-1 {
+    background-image: url('http://i65.tinypic.com/331efsh.jpg');
+    min-height: 100%;
+}
+
+.w3-wide {letter-spacing: 5px;}
+.w3-hover-opacity {cursor: pointer;}
+
+#googleMap {
+    width: 150%;
+    height: 400px;
+    -webkit-filter: grayscale(90%);
+    filter: grayscale(90%);
+}
+
+/* Turn off parallax scrolling for tablets and mobiles */
+@media only screen and (max-width: 1024px) {
+    .bgimg-1, .bgimg-2, .bgimg-3 {
+        background-attachment: scroll;
+    }
+}
+</style>
+<body>
+
+<!-- First Parallax Image with Logo Text -->
+
+<div class="bgimg-1 w3-opacity w3-display-container">
+  <div class="w3-display-middle" style="white-space:nowrap;">
+    <span class="w3-center w3-padding-xlarge w3-black w3-xlarge w3-wide w3-animate-opacity">All <span class="w3-hide-small">Souls</span> Procession </span>
+  </div>
+</div>
+
+<iframe width="100%" height="1" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/292450905&amp;auto_play=true&amp;hide_related=true&amp;show_comments=false&amp;show_user=false&amp;show_reposts=false&amp;visual=false"></iframe>
+
+<!-- Container (About Section) -->
+<div class="w3-content w3-container w3-padding-64" id="about">
+  <h1 class="w3-center">The All Souls Procession Festivities</h1>
+  <p class="w3-center"><em>Sean Orth, Sarah Briggs, Brianna Darling, Brianna Lewis</em>
+  <br>
+  All photos by Rebecca Noble</p>
+  <div id="images_hz" div align="center">
+  
+<a href="#story1">
+  <img src=http://i63.tinypic.com/57h4z.jpg>
+</a>
+<a href="#story2">
+  <img src=http://i66.tinypic.com/i50x80.jpg>
+</a>
+<a href="#story3">
+  <img src=http://i63.tinypic.com/kaln9y.jpg>
+</a>
+<a href="#story4">
+  <img src=http://i67.tinypic.com/154c6ly.jpg>
+</a>
+</div>
+
+<br> <br>
+
+<div class="bgimg-2 w3-display-container">
+  <div class="w3-display-middle">
+    <span class="w3-xxlarge w3-text-black w3-wide">History</span>
+  </div>
+</div>
+<br>
+ <p> <i> <center> By: Sarah Briggs </center> </i> 
+ <br>
+The All Souls Procession, originating in Tucson in 1990, remains an inclusive public ceremony of grief, loss, celebration, life and art.
+<br> <br>
+The procession was created to offer a place to those in need of mourning and celebrating their lost ancestors, friends and loved ones and remains a popular annual event in the city.
+<br> <br>
+“The procession was started by a local artist Susan Johnson, but after many years, the procession has now become a formal event,” said Melanie Cooley, operations director and board officer of the Tucson non-profit Many Mouths One Stomach.
+<br> <br>
+<center><img src="http://i64.tinypic.com/9liujp.jpg"style="height:350px;width=600px;"></center>
+<br> <br>
+Karel Moonen, media director and board officer of MMOS said the procession is one of the ways he is able to give back to the community.
+<br> <br>
+Cooley said MMOS is responsible for organizing the procession. The non-profit also operates as a way for local artists to create and inspire the public through the procession’s festival culture.
+<br> <br>
+“Grief is universal,” Cooley said. “In modern culture, there aren’t many places where people can openly express their emotions. While grief is universal, it is not always culturally accepted. Here at the procession, grief and joy are welcomed.
+<br> <br>
+Karel Moonen, media director and board officer of MMOS, said the procession is one of the ways he is able to give back to the Tucson community. Moonen has handled all the photographers and videographers for the past five years.
+<br> <br>
+“Just seeing the community come together for this event really touches my soul,” Moonen said.
+<br> <br>
+Moonen said that in previous years, people from over 30 different states and other countries have come to join the procession.
+<br> <br>
+“Tucson makes this event happen; this event is a people-driven event where people come from all over the world to participate,” Moonen said.
+<br> <br>
+Cooley said the reason she keeps volunteering every year is to hear people’s stories. Managing the social media aspect of the event, Cooley looks through all the ancestral photos submitted and decides what to post on the procession’s social media sites.
+<br> <br>
+“Because I manage the social media, I get to hear many people’s stories, and that is a really amazing to share that connection with so many different people,” Cooley said.
+<br> <br>
+<center><img src="http://i63.tinypic.com/r924cx.jpg"style="height:350px;width=600px;"></center>
+<br> <br>
+Cooley said that, though the procession is a mix of grief and celebration, it is not a parade designed for spectators but rather participators.
+<br> <br>
+“[The procession] is a participatory walking for the dead where everyone is responsible for their own experience,” Cooley said.
+<br> <br>
+People will bring what they want to this procession, and to many, this event is a funeral, so Cooley said to be respectful and responsible.
+<br> <br>
+The staff dresses up every year along with the rest of the participators. Unlike the rest of the festival, though, none of the procession crews are dressed as sugar skulls.
+<br> <br>
+“We [the staff] make our own costumes and it helps to ready us for the emotional experience of the procession,” Cooley said.
+<br> <br>
+This year, the staff’s theme is “hunters and the hunted.” Some of the staff will dress up as prey animals, antelopes and others as predators like cheetahs.
+<br> <br>
+<center><img src="http://i66.tinypic.com/27x076f.jpg"style="height:350px;width=600px;"></center>
+<br> <br>
+The 10th annual Procession of Little Angels, a walk more geared toward kids’ grief, takes place in Armory Park. It happens Nov. 5, the day before the main procession, from 3-7 p.m.
+<br> <br>
+“The [Procession of Little Angels] really came out of the need to focus on the grief and needs of children,” Cooley said.
+<br> <br>
+In this pre-celebration event, the park fills with children and families who paint wings, make paper flowers and dress in costume. The goal of the event is to approach the concept of grief in child-friendly way. </p>
+ </div>
+ </div>
+ 
+ <!-- subhead --!>
+ 
+<img src="http://i65.tinypic.com/fd918i.jpg" class="center">
+
+<br> <br>
+ 
+ <center><img src="http://i63.tinypic.com/57h4z.jpg" alt="skull"></center>
+ <br><br>
+ 
+ <a id="story1"></a>
+ 
+<div class="bgimg-2 w3-display-container">
+  <div class="w3-display-middle">
+    <span class="w3-xxlarge w3-text-black w3-wide">Dia de los Muertos</span>
+  </div>
+</div>
+  
+  <div class="w3-content w3-container w3-padding-64" id="about">
+  
+    <p> <i> <center> By: Sean Orth </center> </i> 
+ <br>
+ For those that have had the benefit of growing up in a homogenous culture their entire lives, celebrating the same holidays and traditions every year tends to be a given. For UA graduate student Mariana Manriquez, though, the farther away she traveled from home, the more her traditions began to disappear.
+<br> <br>
+Manriquez, who studies sociology, was born in Chihuahua, Mexico, but moved around various cities throughout the country before relocating to Nogales, Arizona, for high school. She moved to Tucson to attend the UA.
+<br> <br>
+Manriquez has vivid memories of Día de los Muertos celebrations in Mexico—traditions that were ubiquitous in her home country and fostered a similar sense of community, no matter what city her family lived in.
+<br> <br>
+“In Mexico, ever since I was a kid for Día de los Muertos, in my house my mom used to do an altar,” Manriquez said. “You do an altar for the people in your family that have died. So my mom always made one to her mom because she died when she was very young.”
+<br> <br>
+<center><img src="http://i67.tinypic.com/24dhvf5.jpg"style="height:350px;width=600px;"></center>
+<br> <br>
+Creating an altar for lost loved ones is a significant part of the holiday which pays respect to the individual who has passed with various elements.
+<br> <br>
+“You put things that the person used to like, and other symbolic things like food because it symbolizes that they’re gonna need food when they’re in their past,” Manriquez said. “Or salt, too, that helps. And candles because that represents the light.”
+<br> <br>
+Manriquez remembers helping her mom make the altar with her brother, but she was able to create art of her own at her elementary school’s celebration of the holiday.
+<br> <br>
+“In school, they make you do altars,” she said. “Each classroom would do an altar, and they could be funny ones, too. Like, you could make it to artists like Amy Winehouse. And we’d have all the grades’ altars [in the gym]. It was a whole thing.”
+<br> <br>
+Along with creating altars, Manriquez said the teachers would make sugar skulls for all the students.
+<br> <br>
+“They would put our names on [the skulls], which means you’re dead, but it was like a funny thing,” Manriquez said.
+<br> <br>
+Although Día de los Muertos centers around death and honoring those who have passed away, Manriquez said that integrating a sense of humor and lightheartedness is essential to celebrating the holiday in its true fashion.
+<br> <br>
+“It’s a tradition where you can still have fun,” Manriquez said. “When you go to the cemetery it becomes more serious, but it’s celebrating the dead so it’s not mourning—it’s more like celebrating.”
+<br> <br>
+<center><img src="http://i64.tinypic.com/6og39c.jpg"style="height:350px;width=600px;"></center>
+<br> <br>
+She said students also write humorous poems called Calaveras where you can jokingly reference La Muerte, the Mexican equivalent of the Grim Reaper, coming and taking you away.
+<br> <br>
+“Do you know Billy and Mandy?” Manriquez asked while attempting to explain the concept of La Muerte to me. I instantly recognized the children’s TV show and realized she was referring to the Grim Reaper—a telling sign of how pop culture can serve as a cross-cultural bridge.
+<br> <br>
+But the power of popular culture can have an invasive side, as well.
+<br> <br>
+“This year, they released a movie about Día de los Muertos in Guanajato,” Manriquez said. “And now in Mexico City they’re doing a parade, but they’re doing it based on the movie. It’s not really the traditional way because Día de los Muertos goes back to pre-Spain, so it’s like an indigenous tradition. It’s interesting now to see these mixtures of things.”
+<br> <br>
+If American-produced culture, like the most recent James Bond film, has the power to affect centuries-old traditions in other countries, where do we draw the line between cultural appreciation and appropriation?
+<br> <br>
+According to Manriquez, appropriation is all about intention.
+<br> <br>
+“If you appropriate it to profit, to commodify it, that’s when I think there can be a negative side to cultural appropriation,” she said. “But if it’s that it’s adopting that celebration in order to bring the community together, I see that in a positive light, even if it’s making its own thing out of it cause it’s in another place.”
+<br> <br>
+Geography plays a major part in maintaining the authenticity of cultural holidays and traditions.
+<br> <br>
+For Manriquez, being away from her home country caused her to abandon her own traditions, mostly because the the celebration of Día de los Muertos is virtually absent here in the U.S.
+<br> <br>
+“It’s very difficult to continue doing it when you’re apart from your home country for two reasons,” Manriquez said. “No one around you is going to be celebrating, so you’re left alone to celebrate it ... And because it’s a very family thing, like making bread and making the altar—I wouldn’t do that on my own.”
+<br> <br>
+Despite being just 70 miles from the Mexican border, the closest thing Tucson has to a communal celebration similar to Día de los Muertos is our All Soul’s Procession.
+<br> <br>
+And though the parade draws on themes and aspects of the Mexican holiday, it shouldn’t be mistaken as our own version of Día de los Muertos.
+<br> <br>
+Manriquez said that there are many differences between the Mexican holiday and the painting faces and marching together in a procession we do here in Tucson for All Souls Day.
+<center><img src="http://i68.tinypic.com/2mzwjno.jpg"style="height:350px;width=600px;"></center>
+<br> <br>
+Like most cultural holidays, celebrating Día de los Muertos every year shaped the way that Manriquez and her peers understood and perceived aspects of the human experience—in this case, death.
+<br> <br>
+“I know that U.S. culture lacks that relationship with death. ... So I think by adopting that in its own way, you can say that’s kind of appropriation, but at the same time, it’s positive by adopting a culture and transforming the existing perspective,” Manriquez said.
+<br> <br>
+Rather than other-izing and Americanizing our own celebration as an adopted version of Día de los Muertos, perhaps learning from Tucson’s Mexican community can serve as a way to properly integrate its legitimate traditions into our country.
+<br> <br>
+The U.S. is still such a relatively new country and because of that, non-ethnic Americans can often lack a sense of deep-rooted cultural belonging. But living in a city so close to Mexico provides an opportunity to learn from the culture that once dominated our region, and we can start to redefine our own cultural understandings through learning and meaningful participation.
+<br> <br>
+“Because we have a Mexican community in Tucson, and we’re doing another thing and it’s inviting people who are not Mexican and bringing them together, I see that in a positive light because it’s just a community event and we’re united,” Manriquez said.
+<br> <br>
+Tucson has an eclectic mix of races and ethnicities, and events like the All Souls Procession allow for all these different cultural upbringings to come together as a united community. Like Manriquez said, unity is the ultimate goal of community events, but this unity shouldn’t be limited to one day a year.
+<br> <br>
+So whether you’re from Tucson or not, anyone can celebrate the All Souls Procession as a Tucsonan—that’s the point of the annual event.
+<br> <br>
+But the other 364 days of the year, think about how you can learn from the cultures and traditions that have shaped Tucson into the diverse community it is today.</p>
+ </div>
+ </div> 
+ 
+<img src="http://i65.tinypic.com/fd918i.jpg" class="center">
+
+<br> <br>
+
+<center><img src="http://i66.tinypic.com/i50x80.jpg" alt="skull"></center>
+ <br><br>
+
+<a id="story2"></a>
+ 
+<!-- Second Parallax Image with Portfolio Text -->
+<div class="bgimg-2 w3-display-container">
+  <div class="w3-display-middle">
+    <span class="w3-xxlarge w3-text-black w3-wide">Face Painting</span>
+  </div>
+  </div>
+<!-- Container (Portfolio Section) -->
+<div class="w3-content w3-container w3-padding-64">
+  <p><i> <center> By: Brianna Darling </center> </i> 
+ <br>
+ The streets of downtown Tucson were covered with a myriad of artists, performers, and Tucsonians alike for last night’s All Souls Procession. A Tucson tradition stemming from the Mexican holiday Dia De Los Muertos, every year the living walk amongst the dead, symbolically remembering and celebrating their deceased loved ones.
+  <br> <br>
+As families, friends and students gathered on Fourth Avenue for the All Souls Procession Sunday night,  face painting served as a way to bring everyone at the event together. Multiple locations were set up on Fourth Avenue where patrons could donate a small fee in exchange for a skeleton/sugar skull face painting.
+<br> <br>
+While some attendees found the experience cathartic and meaningful, for others it was just another fun, unique way to get outside with friends and family.
+<br> <br>
+For attendee Mario Vigil,  ASP is a significant experience that allowed him to commemorate his father.
+<br> <br>
+<center><img src="http://i65.tinypic.com/117tfsy.jpg"style="height:350px;width=600px;"></center>
+<br> <br>
+“My father passed away back in March and so I’m here to celebrate his life,” Vigil said. “I was looking forward to Día de los Muertos since he passed away, and Nov. 2 is actually Día de los Muertos, and I did go to chapel and light a candle for him and say a prayer. [The All Souls Procession] just gives me another way to celebrate him."
+<br> <br>
+Vigil vibrantly painted his face as a symbolic way for him to show that he’s not mourning his father’s death, but celebrating his life.
+<br> <br>
+While many attendees walked in the procession for the same reasons as Vigil, others came as support systems for their loved ones.
+<br> <br>
+The procession brings the Tucson community together in such a way where everyone is welcome, as long as they’re there to be respectful and commemorative while celebrating. 
+<br> <br>
+Kara Kierce, a Tucson native,  attended the procession for the first time last night, despite having lived in Tucson her entire life.
+<br> <br>
+While she didn’t come to honor any of her own deceased loved ones, she did offer support for her boyfriend by painting her face and walking in the procession alongside him.
+<br> <br>
+“It’s exciting, it’s really fun that everybody gets together and does this," Kierce said. "I haven’t heard of this done in any other town before. It definitely brings the community together.”
+<br> <br>
+<center><img src="http://i66.tinypic.com/2lxf9xi.jpg"style="height:350px;width=600px;"></center>
+<br> <br>
+With what felt like the entire city coming together, unified by face painting and remembrances of the dead, it’s no wonder why Tucson has a family-like vibe to many residents.
+<br> <br>
+“With Tucson, it’s a love/hate relationship sometimes, but we do these cool little things that just don’t happen anywhere else,” Kierce said.
+<br> <br>
+It’s that bonding of Tucsonans that brought the community together at ASP, even those who don’t choose to remember their loved ones in this way.
+<br> <br>
+Rachel Smith  has attended ASP for the past three years, but for her and her friends, the procession is just another way to have a good time downtown.
+<br> <br>
+“The people that I’ve lost in my life, like my dad, he’s a big one, this isn’t where I want to think of him, this isn’t how I want to celebrate him," Smith said. "This is something I just do with my friends. I think it’s great that some people can do this and it’s something we’re very respectful of, but it’s just something that my friends and I like to do [to have a good time].”
+<br> <br>
+Smith painted her face purple, white and black with an animated look, showing that she planned to join the festivities out of sheer fun.
+<br> <br>
+ASP brings Tucsonans from all walks of life together, connected by the ubiquity of face paint no matter their intentions for the holiday. Unique to Tucson alone, the procession has gone on for 27 years and has had more than a lasting impact on the spirit of the Old Pueblo.</p>
+<br>
+<br>
+
+ </div>
+ </div>
+ 
+ <img src="http://i65.tinypic.com/fd918i.jpg" class="center">
+
+<br> <br>
+  
+  <center><img src="http://i63.tinypic.com/kaln9y.jpg" alt="skull"></center>
+ <br><br>
+ 
+ <a id="story3"></a>
+ 
+  <div class="bgimg-2 w3-display-container">
+  <div class="w3-display-middle">
+    <span class="w3-xxlarge w3-text-black w3-wide">Little Angels Ceremony</span>
+  </div>
+  </div>
+<!-- Container (Portfolio Section) -->
+<div class="w3-content w3-container w3-padding-64">
+
+  <p> <i> <center> By: Brianna Lewis </center> </i>
+  <br>
+  The Procession of Little Angels will be taking over Armory Park this Saturday as will many other events involved with the All Souls Procession throughout Tucson.
+<br> <br>
+It is a family friendly event that teaches children to acknowledge and honor their loved ones that have passed away. Throughout the day, there are series of events and activities that will take place. This includes, arts and crafts and live performances.
+<br> <br>
+One of the most common activities is the decorating of cardboard wings. Throughout the day children will go to the station and put their artistic abilities to work. They will often times paint them, write a message, and even paste their loved one’s photographs on it.
+<br> <br>
+“The event is something that encourages rogue, and integration, creativity, imagination, and strengthens community” said Jhon Sanders, the director for Little Angels. “The wings epitomize those things in some ways.”
+<br> <br>
+Although the children do not realize any of those qualities are being radiated by their wings, the way they can easily express their imagination and thoughts through art truly sends a message.
+<br> <br>
+Minor details from Halloween are contributed to Little Angels. Except, they added in the forgotten traditions of this haunted celebration.
+<br> <br>
+<center><img src="http://i67.tinypic.com/2qis57s.jpg"style="height:350px;width=600px;"></center>
+<br> <br>
+“We’ve taken back what Halloween used to be and what it was originally; it used to be harvest festival, and an ancestor’s festival where the world of the living and world of the dead are at their highest point of overlap,” said Sanders.
+<br> <br>
+According to Sanders, incorporating some of the most important attributes of Halloween is a fun way to create an opportunity for children to learn more about the importance of their ancestors and others who have passed.
+<br> <br>
+Alters of loved ones who have passed away are also big attributions to Little Angels. The interaction with families who have suffered loss is an eye opening experience for children. For most of them, it is startling to realize that kids can die too, but it is an experience for them to learn about life and also death.
+<br> <br>
+“It is good for the kids and it’s good for Maria and her family,” said Sanders.
+<br> <br>
+Maria is a woman who displays an alter every year in order to honor the loss of her daughter. Jhon explained that the alters create a great opportunity for dialogue and opportunity for the children. Therefore, the meaning of life and death can be better understood. Throwing the children all together for an entire day is also a way to create community. Families with all kinds of different backgrounds come together to celebrate their loved ones.
+<br> <br>
+There are a series of mini performances that are held throughout the day, but when night fall arrives the main event kicks in. As a unique attribution to the performance, most of the showcase inspiration comes from children.
+<br> <br>
+Sharon O’Brien the artistic director of Little Angels also helps run an organization called, "Stories That Soar." The organization goes around to schools with a “magic and hungry box” thats lets students tell stories. The children are able to write whatever they feel. Then other actors and children reenact some of the stories that the kids wrote.
+<br> <br>
+<center><img src="http://i65.tinypic.com/2rr78z5.jpg"style="height:350px;width=600px;"></center>
+<br> <br>
+“Kids love to write for the magic box because they get to be free and write about whatever they want with no restrictions,” said O’Brien.
+<br> <br>
+Often times, children write about death, loss, and sadness. Which fits perfect with the theme of Little Angels and the message it sends. Over time, stories that would be fitting, are performed for the finale at Little Angels. It is easy for them to incorporate the stories because the whole point of Little Angels is to view the All Souls Procession from a child’s point of view.
+<br> <br>
+“These stories, which are written by children explore the themes of loss, death, life, and really the celebration of life,” said O’Brien.
+<br> <br>
+The stories that are showcased are performed by students from the Tucson Circus Arts. O’Brien and her team make it an effort to make every contribution of Little Angels involved with children. Therefore, the stories that are acted out are usually done by young actors and actresses.
+<br> <br>
+With events that’s are specifically based for children, it is easy for them to stay engaged while learning about All Souls. A full day of events will leave children with a whole new view on the Procession.
+<br> <br>
+For those who are looking to get involved, throughout the planning process of Little Angels, there are a series of workshops that anyone can attend. Visitors of Little Angels are also able to bring photos and remembrances of their fallen children and place the items upon the alter. Although the event is mainly aimed towards children, the event has ways for all age groups to interact.</p>
+   </div>
+ </div>
+  
+  <img src="http://i65.tinypic.com/fd918i.jpg" class="center">
+
+<br> <br>
+  
+   <center><img src="http://i67.tinypic.com/154c6ly.jpg" alt="skull"></center>
+ <br>
+
+ <a id="story4"></a>
+  
+  <br>
+   <div class="bgimg-2 w3-display-container">
+  <div class="w3-display-middle">
+    <span class="w3-xxlarge w3-text-black w3-wide">All Souls Procession</span>
+  </div>
+  </div>
+<!-- Container (Portfolio Section) -->
+<div class="w3-content w3-container w3-padding-64">
+  <p> <i> <center> By: DW Arts Desk </center> </i> 
+ <br>
+ The beating heart of Tucson’s creative body came alive at the All Souls Procession last night.
+<br> <br>
+Participants and spectators filled the starting area on Sixth Avenue and Seventh Street hours before the procession even started.
+<br> <br>
+ASP allows people to honor and celebrate loved ones who have died in the past year.
+<br> <br>
+The event accordingly felt like a bunch of intimate, personal experiences manifesting in a grand fashion.
+<br> <br>
+Perhaps this is due to the fact that ASP really did start as a personal and individual celebration—one that founder Susan Johnson created without intention of it becoming a massive, city-wide event.
+<br> <br>
+<center><img src="http://i64.tinypic.com/qps9zm.jpg"style="height:350px;width=600px;"></center>
+<br> <br>
+“My father passed away and he was a World War II Veteran, and he was at the bombing of Pearl Harbor so I wanted to honor him and his life,” Johnson said.
+<br> <br>
+Although she doesn’t walk in honor of someone every year, Johnson built a float for this year’s procession in honor of her late husband, who was ASP’s co-founder.
+<br> <br>
+After the first year, Johnson created workshops to get the community involved in her celebration.
+<br> <br>
+“I created workshops for people to actually interact and make things together to process grieving, and also sharing who they were honoring, so it made more of a community event,” Johnson said.
+<br> <br>
+Johnson brought the event’s Día de los Muertos-inspired concept to Tucson because of its proximity to the U.S.-Mexico border. She wanted to celebrate the holiday, but wasn’t of Hispanic descent, so she tried to integrate the ways Latin Americans connect with life and death into her own unique celebration.
+<br> <br>
+<center><img src="http://i65.tinypic.com/vh3z29.jpg"style="height:350px;width=600px;"></center>
+<br> <br>
+ASP is completely non-profit. The volunteers who run the event, Many Mouths One Stomach, made their way through the crowds before the procession started, politely asking for $1 donations.
+<br> <br>
+They seemed to serve as the backbone of the procession and made it clear the group has “never taken corporate sponsors and they never will.”
+<br> <br>
+Although most of the procession-goers were honoring fallen loved ones, the atmosphere was uplifting and positive, as if they knew their loved ones were following them wherever they went.
+<br> <br>
+The lighting of the urn at the procession’s finale brought closure to the evening and united the community in a ceremony where the dead met with the living for the ultimate celebration.</P>
+     
+</body>
+</html>
